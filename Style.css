@@ -478,10 +478,12 @@ body{
     height: 230px;
     margin-left: 100px;
     cursor: pointer;
+    transition: 1s;
 }
 .main_extention img:hover{
     max-width: 340px;
     height: 260px;
+    transition: 1s;
 }
 .main_deploy{
     display: flex;
