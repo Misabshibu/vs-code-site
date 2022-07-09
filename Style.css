@@ -819,8 +819,10 @@ body{
     padding-left: 20px;
 }
 .list_right button{
+    color: white;
     border-radius: 5px;
     cursor: pointer;
+    background: #333;
 }
 .list_right a{
     color: #0066b8;
